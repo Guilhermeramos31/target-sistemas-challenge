@@ -1,4 +1,3 @@
-
 console.log(fibonacci(610));
 
 function fibonacci (num){
